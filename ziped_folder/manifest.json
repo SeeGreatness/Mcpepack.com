@@ -1,0 +1,18 @@
+
+{
+    "format_version": 1,
+    "header": {
+        "description": "SeeGreatness",
+        "name": "SeeGreatness",
+        "uuid": "880aa4b8-b062-11e7-abc4-cec278b6b50a",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "SeeGreatness",
+            "type": "data",
+            "uuid": "880aa986-b062-11e7-abc4-cec278b6b50a",
+            "version": [0, 0, 1]
+        }
+    ]
+}
